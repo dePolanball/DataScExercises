@@ -1,0 +1,2 @@
+# DataScExercises
+Practicing Data Science
